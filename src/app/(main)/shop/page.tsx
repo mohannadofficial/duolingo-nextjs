@@ -12,6 +12,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Lingo | Shop",
+  description: "Spend your points on cool stuff.",
 };
 
 const ShopPage = async () => {

@@ -13,6 +13,7 @@ import { redirect } from "next/navigation";
 
 export const metadata: Metadata = {
   title: "Lingo | Quests",
+  description: "Complete quests by earning points.",
 };
 
 const QuestsPage = async () => {

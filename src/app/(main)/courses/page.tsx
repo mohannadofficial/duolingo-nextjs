@@ -4,6 +4,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Lingo | Courses",
+  description:
+    "Learn a new language with Lingo. Choose from a variety of languages and start learning today.",
 };
 
 const CoursesPage = async () => {

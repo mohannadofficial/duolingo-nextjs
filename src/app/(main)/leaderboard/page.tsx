@@ -16,6 +16,7 @@ import { redirect } from "next/navigation";
 
 export const metadata: Metadata = {
   title: "Lingo | Leaderboard",
+  description: "See where you stand among other learners in the community.",
 };
 
 const LeaderBoardPage = async () => {

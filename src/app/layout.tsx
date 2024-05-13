@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Lingo",
   description:
     "Learning a language on Duolingo is completely free, but you can remove ads and support free education with Super. First 2 weeks on us! Learn more ...",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
