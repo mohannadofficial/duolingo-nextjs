@@ -61,7 +61,7 @@ Before you begin, ensure you have the following software installed on your local
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/duolingo-nextjs.git
+git clone https://github.com/mohannadofficial/duolingo-nextjs.git
 ```
 
 2. Install Dependencies:
